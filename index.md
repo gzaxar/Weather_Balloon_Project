@@ -2031,7 +2031,7 @@ mso-bidi-font-size:11.0pt;line-height:107%;mso-ansi-language:EL'> - 4<sup>ο</su
  <v:imagedata src="index.files/image001.png" o:title=""/>
  <w:wrap type="square" anchorx="margin"/>
 </v:shape><![endif]--><![if !vml]><img width=541 height=504
-src="index.files/image002.jpg" align=left hspace=12 v:shapes="Εικόνα1"><![endif]><span
+src="Photos/image002.jpg" align=left hspace=12 v:shapes="Εικόνα1"><![endif]><span
 lang=EL style='mso-ansi-language:EL'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='text-align:justify'><span lang=EL style='mso-ansi-language:
@@ -2801,7 +2801,7 @@ page-break-after:avoid'><span style='mso-fareast-language:ES;mso-no-proof:yes'><
  style='width:444pt;height:252pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="index.files/image003.jpg" o:title="balloon" cropbottom="7476f"/>
 </v:shape><![endif]--><![if !vml]><img width=592 height=336
-src="index.files/image004.jpg"
+src="Photos/image004.jpg"
 alt="https://rsaa.anu.edu.au/files/styles/anu_horiz_scale_920/public/balloon.jpg?itok=FdFRg7yo"
 v:shapes="Εικόνα_x0020_11"><![endif]></span></p>
 
@@ -2990,7 +2990,7 @@ yes'><!--[if gte vml 1]><v:shape id="Εικόνα_x0020_2" o:spid="_x0000_i1038"
  mso-wrap-style:square'>
  <v:imagedata src="index.files/image005.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=642 height=244
-src="index.files/image006.jpg" v:shapes="Εικόνα_x0020_2"><![endif]></span></p>
+src="Photos/image006.jpg" v:shapes="Εικόνα_x0020_2"><![endif]></span></p>
 
 <p class=MsoCaption style='text-align:justify;text-indent:35.4pt'><span
 lang=EL style='mso-ansi-language:EL'>Εικόνα </span><!--[if supportFields]><span
@@ -3054,8 +3054,8 @@ mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Εικόνα_x0020_7" o:spid="
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="index.files/image007.jpg" o:title="" croptop="-352f"
   cropleft="14618f" cropright="7386f"/>
-</v:shape><![endif]--><![if !vml]><img border=0 width=311 height=274
-src="index.files/image008.jpg" v:shapes="Εικόνα_x0020_7"><![endif]></span><span
+</v:shape><![endif]--><![if !vml]><border=0 width=311 height=274
+src="Photos/image008.jpg" v:shapes="Εικόνα_x0020_7"><![endif]></span><span
 style='mso-spacerun:yes'> </span></p>
 
 <p class=MsoCaption style='text-align:justify'><span lang=EL style='mso-ansi-language:
@@ -3079,7 +3079,7 @@ mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Εικόνα_x0020_10" o:spid=
  style='width:214.5pt;height:149.25pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="index.files/image009.jpg" o:title="BoxBig"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=286 height=199
-src="index.files/image010.jpg"
+src="Photos/image010.jpg"
 alt="http://randomaerospace.com/Random_Aerospace/Stuff_files/BoxBig.jpg"
 v:shapes="Εικόνα_x0020_10"><![endif]></span></p>
 
