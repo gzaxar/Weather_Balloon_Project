@@ -60,7 +60,7 @@ target="index.files/props002.xml">
    <w:SplitPgBreakAndParaMark/>
    <w:EnableOpenTypeKerning/>
    <w:DontFlipMirrorIndents/>
-   <w:OverrideTableStyleHps/>
+   <w:OverrideTableHps/>
   </w:Compatibility>
   <m:mathPr>
    <m:mathFont m:val="Cambria Math"/>
@@ -2985,7 +2985,7 @@ yes'><!--[if gte vml 1]><v:shape id="Εικόνα_x0020_2" o:spid="_x0000_i1038"
  mso-wrap-style:square'>
  <v:imagedata src="index.files/image005.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=642 height=244
-src="Photos/image006.jpg" v:shapes="Εικόνα_x0020_2"><![endif]></span></p>
+src="Weather Balloon Project.files/image006.jpg" v:shapes="Εικόνα_x0020_2"><![endif]></span></p>
 
 <p class=MsoCaption style='text-align:justify;text-indent:35.4pt'><span
 lang=EL style='mso-ansi-language:EL'>Εικόνα </span><!--[if supportFields]><span
@@ -3074,7 +3074,7 @@ mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Εικόνα_x0020_10" o:spid=
  style='width:214.5pt;height:149.25pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="index.files/image009.jpg" o:title="BoxBig"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=286 height=199
-src="Photos/image010.jpg"
+src="Weather Balloon Project.files/image010.jpg"
 alt="http://randomaerospace.com/Random_Aerospace/Stuff_files/BoxBig.jpg"
 v:shapes="Εικόνα_x0020_10"><![endif]></span></p>
 
@@ -3225,7 +3225,7 @@ style='mso-fareast-language:ES;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  <v:imagedata src="index.files/image011.jpg" o:title="" croptop="13834f"
   cropbottom="10112f" cropleft="21274f" cropright="21935f"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=348 height=249
-src="index.files/image012.jpg" v:shapes="Εικόνα_x0020_6"><![endif]></span></p>
+src="Weather Balloon Project.files/image012.jpg" v:shapes="Εικόνα_x0020_6"><![endif]></span></p>
 
 <p class=MsoCaption style='text-align:justify'><span lang=EL style='mso-ansi-language:
 EL'>Εικόνα </span><!--[if supportFields]><span style='mso-element:field-begin'></span><span
@@ -3542,7 +3542,7 @@ style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;mso-bidi-font-
  <v:imagedata src="index.files/image013.jpg" o:title="" croptop="18222f"
   cropbottom="15765f" cropleft="20093f" cropright="11886f"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=329 height=232
-src="index.files/image014.jpg" v:shapes="Εικόνα_x0020_8"><![endif]></span></b></p>
+src="Weather Balloon Project.files/image014.jpg" v:shapes="Εικόνα_x0020_8"><![endif]></span></b></p>
 
 <p class=MsoCaption style='text-align:justify'><span lang=EL style='mso-ansi-language:
 EL'>Εικόνα </span><!--[if supportFields]><span style='mso-element:field-begin'></span><span
@@ -3568,7 +3568,7 @@ ES;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Εικόνα_x0020_9" o:spi
  <v:imagedata src="index.files/image015.jpg" o:title="" cropleft="26475f"
   cropright="23910f"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=642 height=198
-src="index.files/image016.jpg" v:shapes="Εικόνα_x0020_9"><![endif]></span></p>
+src="Weather Balloon Project.files/image016.jpg" v:shapes="Εικόνα_x0020_9"><![endif]></span></p>
 
 <p class=MsoCaption><span lang=EL style='mso-ansi-language:EL'>Εικόνα </span><!--[if supportFields]><span
 style='mso-element:field-begin'></span><span style='mso-ansi-language:EL'><span
@@ -3593,7 +3593,7 @@ ES;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Εικόνα_x0020_12" o:sp
  <v:imagedata src="index.files/image017.png" o:title="Original EKEN H9R Action Camera | Waterproof action camera, 4k video camera,  best budget action camera, Sports cam, helmet camera | EKEN Official Website"
   croptop="9113f" cropbottom="8420f" cropleft="22850f" cropright="3515f"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=274 height=267
-src="index.files/image018.png"
+src="Weather Balloon Project.files/image018.png"
 alt="Original EKEN H9R Action Camera | Waterproof action camera, 4k video camera,  best budget action camera, Sports cam, helmet camera | EKEN Official Website"
 v:shapes="Εικόνα_x0020_12"><![endif]></span></p>
 
@@ -3615,7 +3615,7 @@ ES;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Εικόνα_x0020_13" o:sp
  mso-wrap-style:square'>
  <v:imagedata src="index.files/image019.jpg" o:title="20211001_131706"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=258 height=194
-src="index.files/image020.jpg" v:shapes="Εικόνα_x0020_13"><![endif]></span></p>
+src="Weather Balloon Project.files/image020.jpg" v:shapes="Εικόνα_x0020_13"><![endif]></span></p>
 
 <p class=MsoCaption>Εικόνα <!--[if supportFields]><span style='mso-element:
 field-begin'></span><span style='mso-spacerun:yes'> </span>SEQ Εικόνα \* ARABIC
@@ -3639,7 +3639,7 @@ style='mso-fareast-language:ES;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  height:383.25pt;rotation:90;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="index.files/image021.jpg" o:title="" cropright="15934f"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=511 height=515
-src="index.files/image022.jpg" v:shapes="Εικόνα_x0020_3"><![endif]></span></p>
+src="Weather Balloon Project.files/image022.jpg" v:shapes="Εικόνα_x0020_3"><![endif]></span></p>
 
 <p class=MsoCaption style='text-align:justify'><span lang=EL style='mso-ansi-language:
 EL'>Εικόνα </span><!--[if supportFields]><span style='mso-element:field-begin'></span><span
@@ -3662,7 +3662,7 @@ style='mso-fareast-language:ES;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  <v:imagedata src="index.files/image023.jpg" o:title="" croptop="16230f"
   cropbottom="17010f" cropleft="5913f" cropright="11100f"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=203 height=407
-src="index.files/image024.jpg" v:shapes="Εικόνα_x0020_4"><![endif]></span></p>
+src="Weather Balloon Project.files/image024.jpg" v:shapes="Εικόνα_x0020_4"><![endif]></span></p>
 
 <p class=MsoCaption style='text-align:justify'>Εικόνα <!--[if supportFields]><span
 style='mso-element:field-begin'></span><span
@@ -3681,7 +3681,7 @@ style='mso-fareast-language:ES;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  <v:imagedata src="index.files/image025.jpg" o:title="" croptop="9434f"
   cropleft="9973f" cropright="23915f"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=348 height=261
-src="index.files/image026.jpg" v:shapes="Εικόνα_x0020_5"><![endif]></span></p>
+src="Weather Balloon Project.files/image026.jpg" v:shapes="Εικόνα_x0020_5"><![endif]></span></p>
 
 <p class=MsoNormal style='text-align:justify;page-break-after:avoid'><span
 lang=EL style='mso-ansi-language:EL'>Εικόνα </span><!--[if supportFields]><span
@@ -3753,7 +3753,7 @@ mso-ansi-language:EL'><o:p>&nbsp;</o:p></span></p>
  <v:imagedata src="index.files/image029.jpg" o:title="Weather_Balloon_Launch_Field_large"/>
  <w:wrap type="square" anchorx="page"/>
 </v:shape><![endif]--><![if !vml]><img width=183 height=183
-src="index.files/image030.jpg" align=left hspace=12
+src="Weather Balloon Project.files/image030.jpg" align=left hspace=12
 alt="https://cdn.shopify.com/s/files/1/0277/1287/files/Weather_Balloon_Launch_Field_large.jpg?4792793620829691220"
 v:shapes="Εικόνα_x0020_17"><![endif]><span lang=EL style='font-size:14.0pt;
 line-height:107%;mso-ansi-language:EL'><o:p></o:p></span></p>
@@ -3788,7 +3788,7 @@ mso-ansi-language:EL'><o:p>&nbsp;</o:p></span></p>
  <v:imagedata src="index.files/image031.jpg" o:title="Cylinder_with_Inflation_System_large"/>
  <w:wrap type="square" anchorx="page"/>
 </v:shape><![endif]--><![if !vml]><img width=186 height=186
-src="index.files/image032.jpg" align=left hspace=12
+src="Weather Balloon Project.files/image032.jpg" align=left hspace=12
 alt="https://cdn.shopify.com/s/files/1/0277/1287/files/Cylinder_with_Inflation_System_large.jpg?338"
 v:shapes="Εικόνα_x0020_18"><![endif]><span lang=EL style='font-size:14.0pt;
 line-height:107%;mso-ansi-language:EL'><o:p></o:p></span></p>
@@ -3838,7 +3838,7 @@ background:#F8F9FA'><!--[if gte vml 1]><v:shape id="Εικόνα_x0020_19" o:spi
  <v:imagedata src="index.files/image033.jpg" o:title="Attaching_Balloon_large"/>
  <w:wrap type="square"/>
 </v:shape><![endif]--><![if !vml]><img width=252 height=252
-src="index.files/image034.jpg" align=left hspace=12
+src="Weather Balloon Project.files/image034.jpg" align=left hspace=12
 alt="https://cdn.shopify.com/s/files/1/0277/1287/files/Attaching_Balloon_large.JPG?338"
 v:shapes="Εικόνα_x0020_19"><![endif]><span lang=EL style='font-family:"inherit",serif;
 mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
@@ -3860,7 +3860,7 @@ background:#F8F9FA'><!--[if gte vml 1]><v:shape id="Εικόνα_x0020_20" o:spi
  <v:imagedata src="index.files/image035.jpg" o:title="Securing_Balloon_large.JPG"/>
  <w:wrap type="square" anchorx="page"/>
 </v:shape><![endif]--><![if !vml]><img width=233 height=233
-src="index.files/image036.jpg" align=left hspace=12
+src="Weather Balloon Project.files/image036.jpg" align=left hspace=12
 alt="https://cdn.shopify.com/s/files/1/0277/1287/files/Securing_Balloon_large.JPG.JPG?338"
 v:shapes="Εικόνα_x0020_20"><![endif]><span lang=EL style='mso-fareast-font-family:
 "Times New Roman";mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
@@ -3901,7 +3901,7 @@ color:#202124;mso-ansi-language:EL;mso-fareast-language:EL'><o:p>&nbsp;</o:p></s
  <v:imagedata src="index.files/image037.jpg" o:title="Pull_Tab_Tip_large"/>
  <w:wrap type="square" anchorx="margin"/>
 </v:shape><![endif]--><![if !vml]><img width=152 height=152
-src="index.files/image038.jpg" align=left hspace=12
+src="Weather Balloon Project.files/image038.jpg" align=left hspace=12
 alt="https://cdn.shopify.com/s/files/1/0277/1287/files/Pull_Tab_Tip_large.JPG?338"
 v:shapes="Εικόνα_x0020_21"><![endif]><span lang=EL style='mso-ansi-language:
 EL'>Συμβουλή Όταν κόβετε την μονωτική ταινία, διπλώστε την άκρη της ταινίας
@@ -3928,7 +3928,7 @@ mso-ansi-language:EL'><o:p>&nbsp;</o:p></span></p>
  <v:imagedata src="index.files/image039.jpg" o:title="Holding_Weather_Balloon_large"/>
  <w:wrap type="square" anchorx="margin"/>
 </v:shape><![endif]--><![if !vml]><img width=157 height=157
-src="index.files/image040.jpg" align=left hspace=12
+src="Weather Balloon Project.files/image040.jpg" align=left hspace=12
 alt="https://cdn.shopify.com/s/files/1/0277/1287/files/Holding_Weather_Balloon_large.JPG?338"
 v:shapes="Εικόνα_x0020_22"><![endif]><span lang=EL style='font-size:14.0pt;
 line-height:107%;mso-ansi-language:EL'><br clear=all>
@@ -3966,7 +3966,7 @@ EL'>Βήμα 6 - Ξεκινήστε προσεκτικά να φουσκώνετ
  <v:imagedata src="index.files/image041.jpg" o:title="Begin_Inflation_large"/>
  <w:wrap type="square"/>
 </v:shape><![endif]--><![if !vml]><img width=243 height=243
-src="index.files/image042.jpg" align=left hspace=12
+src="Weather Balloon Project.files/image042.jpg" align=left hspace=12
 alt="https://cdn.shopify.com/s/files/1/0277/1287/files/Begin_Inflation_large.JPG?338"
 v:shapes="Εικόνα_x0020_23"><![endif]><span lang=EL style='mso-ansi-language:
 EL'><br clear=all>
@@ -3988,7 +3988,7 @@ ES;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Εικόνα_x0020_24" o:sp
  style='width:192.75pt;height:192.75pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="index.files/image043.jpg" o:title="Let_Balloon_Rise_large"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=257 height=257
-src="index.files/image044.jpg"
+src="Weather Balloon Project.files/image044.jpg"
 alt="https://cdn.shopify.com/s/files/1/0277/1287/files/Let_Balloon_Rise_large.JPG?338"
 v:shapes="Εικόνα_x0020_24"><![endif]></span></p>
 
@@ -4022,7 +4022,7 @@ ES;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Εικόνα_x0020_27" o:sp
  mso-wrap-style:square'>
  <v:imagedata src="index.files/image045.png" o:title="" croptop="6620f"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=554 height=383
-src="index.files/image046.jpg" v:shapes="Εικόνα_x0020_27"><![endif]></span><span
+src="Weather Balloon Project.files/image046.jpg" v:shapes="Εικόνα_x0020_27"><![endif]></span><span
 lang=EL style='mso-ansi-language:EL'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='text-align:justify'><span lang=EL style='mso-ansi-language:
@@ -4039,7 +4039,7 @@ ES;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Εικόνα_x0020_28" o:sp
  <v:imagedata src="index.files/image045.png" o:title="" croptop="45418f"
   cropleft="44619f"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=435 height=322
-src="index.files/image047.jpg" v:shapes="Εικόνα_x0020_28"><![endif]></span><span
+src="Weather Balloon Project.files/image047.jpg" v:shapes="Εικόνα_x0020_28"><![endif]></span><span
 lang=EL style='mso-ansi-language:EL'><o:p></o:p></span></p>
 
 </div>
