@@ -2031,7 +2031,7 @@ mso-bidi-font-size:11.0pt;line-height:107%;mso-ansi-language:EL'> - 4<sup>ο</su
  <v:imagedata src="index.files/image001.png" o:title=""/>
  <w:wrap type="square" anchorx="margin"/>
 </v:shape><![endif]--><![if !vml]><img width=541 height=504
-src="Photos/image002.jpg" align=left hspace=12 v:shapes="Εικόνα1"><![endif]><span
+src="Weather Balloon Project.files/image002.jpg" align=left hspace=12 v:shapes="Εικόνα1"><![endif]><span
 lang=EL style='mso-ansi-language:EL'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='text-align:justify'><span lang=EL style='mso-ansi-language:
@@ -2801,7 +2801,7 @@ page-break-after:avoid'><span style='mso-fareast-language:ES;mso-no-proof:yes'><
  style='width:444pt;height:252pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="index.files/image003.jpg" o:title="balloon" cropbottom="7476f"/>
 </v:shape><![endif]--><![if !vml]><img width=592 height=336
-src="Photos/image004.jpg"
+src="Weather Balloon Project.files/image004.jpg"
 alt="https://rsaa.anu.edu.au/files/styles/anu_horiz_scale_920/public/balloon.jpg?itok=FdFRg7yo"
 v:shapes="Εικόνα_x0020_11"><![endif]></span></p>
 
